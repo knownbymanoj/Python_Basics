@@ -1,0 +1,35 @@
+Question 1:
+						Values: 'hello',-87.8,6
+						Expressions: *,-,/,  +
+						
+Question 2:
+						String is an datatype in python which stores any characters in double or single quotes
+						whereas variable contains alphabets or numeric or underscore which stores any value in it.
+						Variable store imformation and can can be changed according to the user.
+						
+Question 3:		
+						3 different data types in python are int-whole numbers,string-anything inside double or single quotes,float-decimal numbers,boolean -True or False
+					
+Question 4:
+						Expressions are series of mathematical operators with operators and operands combined.They do computation which returns some value
+
+Question 5:
+						Expressions return some value wheraes statements does not return anything.
+
+Question 6:
+						bacon = 23
+						
+Question 7:
+						spamspamspam
+						spamspamspam
+Question 8:
+						According to python any letters can be used to instalise an variable but nnumbers cannot be used to initalise variables
+						
+Question 9:
+						integer:int()
+						float:float()
+						string:str()
+
+Question 10:
+						2 different data types cannot be added. So we can make all values a sstrings and tehen add.
+						Therefore  can write as "I have eaten" + "99" + "burritos."
